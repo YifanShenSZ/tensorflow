@@ -1,3 +1,5 @@
+envs/
+
 .DS_Store
 .ipynb_checkpoints
 node_modules
